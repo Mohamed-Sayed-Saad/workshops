@@ -1,0 +1,29 @@
+{
+    "routers" : {
+
+        "R1" : {
+            "hostname" : "R1",
+            "ip address" : "10.0.0.1",
+            "version" : "15.6",
+           "model" : "isr4331"
+        },
+
+        "R2" : {
+            "hostname" : "R2",
+            "ip address" : "10.0.0.2",
+            "version" : "15.6",
+           "model" : "c7200"
+        },
+
+        "R3" : {
+            "hostname" : "R3",
+            "ip address" : "10.0.0.3",
+            "version" : "15.6",
+           "model" : "c3760"
+        }
+
+
+
+    }
+
+}
